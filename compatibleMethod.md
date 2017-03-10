@@ -129,19 +129,4 @@ function fill(value){
 }
 ```
 
-*ajax封装(包含jsonp跨域处理方法)*
-```
-function ajax(a,b){//type,url,async,dataType,data,fn
-  var xhr=null,
-      type="get",
-      url="#",
-      async=true,
-      dataType"text",
-      data="",
-      jsonp="",
-      jsonpCallback = "",
-      methodName="",
-      c=null;
-}
 
-```
